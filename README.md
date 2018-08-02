@@ -625,6 +625,11 @@ If you find that the content browser has an empty folder you can't delete, you s
 <a name="bp"></a>
 
 ### Sections
+> 6.1 [No Errors Or Warnings](#levels-no-errors-or-warnings)
+
+> 6.2 [Lighting Should Be Built](#levels-lighting-should-be-built)
+
+> 6.3 [No Player Visible Z Fighting](#evels-no-visible-z-fighting)
 
 <a name="6.1"></a>
 <a name="levels-no-errors-or-warnings"></a>
@@ -647,10 +652,6 @@ It is normal during development for levels to occasionaly not have lighting buil
 ### 6.3 No Player Visible Z Fighting ![#](https://img.shields.io/badge/lint-unsupported-red.svg)
 
 Levels should not have any [z-fighting](https://en.wikipedia.org/wiki/Z-fighting) in all areas visible to the player. 
-
-<a name="6.4"></a>
-<a name="levels-mp-rules"></a>
-### 6.4 Marketplace Specific Rules ![#](https://img.shields.io/badge/lint-unsupported-red.svg)
 
 <a name="7"></a>
 <a name="textures"></a>
