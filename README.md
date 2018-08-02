@@ -8,8 +8,8 @@ An automated method of checking your project against this style guide is availab
 
 ## Linking To This Document
 
-Every section of this style guide is numbered for both easy reference and easy linking. You can link to any section directly by simply append a hash tag and the section number to the end of http://ue4.style
-For example, if you want to send someone to the first principle of this style guide you would append `#0.1`, resulting in http://ue4.style#0.1.
+Every section of this style guide is numbered for both easy reference and easy linking. You can link to any section directly by simply append a hash tag and the section number to the end of https://github.com/Team6Games/ue4-style-guide
+For example, if you want to send someone to the first principle of this style guide you would append `#0.1`, resulting in https://github.com/Team6Games/ue4-style-guide#0.1.
 
 ## Important Terminology
 
