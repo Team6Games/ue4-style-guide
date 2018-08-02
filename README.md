@@ -288,6 +288,7 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 | Texture (Specular)      | T_         | _S         |                                  |
 | Texture (Packed)        | T_         | _*         | See notes below about [packing](#anc-textures-packing). |
 | Texture Cube            | TC_        |            |                                  |
+| Texture (UI)            | T_         |_UI         |                                  |
 | Media Texture           | MT_        |            |                                  |
 | Render Target           | RT_        |            |                                  |
 | Cube Render Target      | RTC_       |            |                                  |
